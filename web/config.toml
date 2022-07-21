@@ -1,0 +1,12 @@
+baseURL = 'http://0x0decaf.github.io'
+languageCode = 'en-us'
+title = "Uniform Lima"
+theme = 'hyde'
+
+[params]
+description = "On learning, growth and philosophy and something more"
+themeColor = "theme-base-09"
+#layoutReverse = "true"
+
+
+# [menu]

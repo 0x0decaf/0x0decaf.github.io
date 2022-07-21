@@ -1,0 +1,9 @@
+[submodule "web/themes/hugo-book"]
+	path = web/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "garden/themes/digitalgarden"]
+	path = garden/themes/digitalgarden
+	url = https://github.com/apvarun/digital-garden-hugo-theme.git
+[submodule "web/themes/paper"]
+	path = web/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
