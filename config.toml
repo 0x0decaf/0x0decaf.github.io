@@ -2,6 +2,7 @@ baseURL = 'http://0x0decaf.github.io'
 languageCode = 'en-us'
 title = "Uniform Lima"
 theme = 'hyde'
+publishDir = "docs"
 
 [params]
 description = "On learning, growth and philosophy and something more"
