@@ -1,4 +1,4 @@
-baseURL = 'http://0x0decaf.github.io/'
+baseURL = 'http://0x0decaf-github-io.pages.dev/'
 languageCode = 'en-us'
 title = "Uniform Lima"
 theme = 'hyde'
